@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🧠 Harshvardhan Singh Chauhan</h1>
-<h3 align="center">A Sigma Techie forging logic, code & curiosity into power ⚔️</h3>
+<h3 align="center">A Techie forging logic, code & curiosity into power ⚔️</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" />
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔗 Connect Like a Professional Operator:
+### 🔗 Connect With Me:
 <p align="center">
   <a href="https://linkedin.com/in/harshvardhan singh chauhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,11 +33,10 @@
 </p>
 
 - 🧠 B.Tech ECE @ **MNNIT Allahabad**  
-- 🪖 Ex-**NDA SSB Recommended** | Grit in the veins  
-- 🎭 Member of **Darpan**, **Gnosis**, **MNNIT Times**, **NCC**  
+- 🪖 Ex-**NDA SSB Recommended** | Grit in the veins   
 - 💻 Competitive Coder → **LeetCode**, **Codeforces**, **CodeChef**  
-- 🌐 Interested in **Geopolitics**, **Diplomacy**, and **Systems Thinking**  
-- 🔧 Learning: **Advanced DSA**, **Full-Stack Dev**, **Domain-Driven Design**
+- 🌐 Interested in **Geopolitics** 
+- 🔧 Learning: **Advanced DSA**, **Full-Stack Dev**
 
 ---
 
@@ -132,7 +131,7 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
 
 ---
 
-### ⚔️ Life Motto
+### ⚔️ Thoughts
 <p align="center">
   <img src="https://media.tenor.com/h-yPL8nYB-sAAAAC/discipline-sigma.gif" width="160" />
 </p>
