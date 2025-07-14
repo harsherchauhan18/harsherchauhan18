@@ -110,12 +110,13 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
 
 ---
 
-### 🕹️ Pacman Contribution Graph
+### 🟡 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake.svg" />
 </picture>
+
 
 ---
 
@@ -127,16 +128,6 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsherchauhan18&theme=darkhub&margin-w=15&margin-h=15&no-bg=true" />
 </p>
-
----
-
-### ⚡ Fun Zone (Only Dark Ops)
-<p align="center">
-  <img src="https://media.tenor.com/EUyMcH4EW3UAAAAC/matrix-terminal.gif" width="280" />
-</p>
-
-- 🐍 [GitHub Contribution Snake](https://github.com/Platane/snk)  
-- 🧱 [GitHub Skyline (3D contribution graph)](https://skyline.github.com/)
 
 ---
 
