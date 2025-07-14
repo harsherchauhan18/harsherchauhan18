@@ -118,14 +118,6 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake.svg" />
 </picture>
 
-### 🕹️ Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ---
 
