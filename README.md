@@ -110,7 +110,7 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
 ---
 ### Codeforces Arena 
 
-<p align="center"> <img src="https://media.tenor.com/ltOajO5T1NIAAAAC/code-coding.gif" width="200" /> </p> <p align="center"> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://cf.leed.at?id=Harshvardhanchauhan18" alt="Codeforces Stats" /> </a> </p> <p align="center"> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-%40Harshvardhanchauhan18-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220" alt="Codeforces Fighter" /> </p> <p align="center"> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://cf.leed.at?id=Harshvardhanchauhan18" alt="Codeforces Stats" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB000&center=true&vCenter=true&width=900&lines=Solving+one+problem+at+a+time+%F0%9F%92%BB;Codeforces+Rating+is+just+a+side-effect+%F0%9F%94%A5;Eyes+on+logic%2C+heart+in+the+fight+%E2%9A%94%EF%B8%8F" /> </p>
 
 ### 🟡 Contribution Graph
 
