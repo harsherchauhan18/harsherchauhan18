@@ -108,6 +108,9 @@ Tech Stack: `MERN` · `JWT Auth` · `Tailwind CSS`
 </p>
 
 ---
+### Codeforces Arena 
+
+<p align="center"> <img src="https://media.tenor.com/ltOajO5T1NIAAAAC/code-coding.gif" width="200" /> </p> <p align="center"> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://cf.leed.at?id=Harshvardhanchauhan18" alt="Codeforces Stats" /> </a> </p> <p align="center"> <a href="https://codeforces.com/profile/Harshvardhanchauhan18" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-%40Harshvardhanchauhan18-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> </p>
 
 ### 🟡 Contribution Graph
 
