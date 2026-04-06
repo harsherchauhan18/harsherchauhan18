@@ -35,7 +35,7 @@
 
 ```yaml
 name     : Harshvardhan Singh Chauhan
-role     : Full-Stack Dev  |  DSA |  GenAI 
+role     : Full-Stack Dev  |  DSA Grinder  |  GenAI Builder
 college  : MNNIT Allahabad — B.Tech ECE
 bg       : Ex-NDA SSB Recommended 🪖
 interests:
@@ -44,7 +44,8 @@ interests:
   - Generative AI & LLM Engineering
   - Multi-Agent Systems & MCP
   - Geopolitics 🌐
-learning : [ Advanced DSA, LangGraph, RAG, Vector DBs ]
+learning : [ Advanced DSA, LangChain, LangGraph, RAG, Vector DBs ]
+motto    : "Code. Crack. Conquer."
 ```
 
 </div>
@@ -180,14 +181,19 @@ learning : [ Advanced DSA, LangGraph, RAG, Vector DBs ]
 
 ---
 
-## 🟡 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake.svg" />
+    <img
+      alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/harsherchauhan18/harsherchauhan18/output/github-snake-dark.svg"
+    />
+  </picture>
 </div>
 
 ---
@@ -195,7 +201,7 @@ learning : [ Advanced DSA, LangGraph, RAG, Vector DBs ]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsherchauhan18&theme=tokyonight&margin-w=12&margin-h=12&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harsherchauhan18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
@@ -206,8 +212,9 @@ learning : [ Advanced DSA, LangGraph, RAG, Vector DBs ]
 
 | 🎯 Role | 🏢 Organization |
 |:---|:---|
-| 💻 Computer Coding Club — Executive | 
-| 🧑‍🏫 SMP Mentor | 
+| 💻 Computer Coding Club — Executive | MNNIT Allahabad |
+| 🧑‍🏫 SMP Mentor | MNNIT Allahabad IIC |
+| 🌐 Web Team Member | MNNIT Allahabad IIC |
 
 </div>
 
@@ -216,7 +223,7 @@ learning : [ Advanced DSA, LangGraph, RAG, Vector DBs ]
 ## 🍥 Wisdom from the Terminal
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2500&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&lines=I+don%27t+always+test+my+code...+but+when+I+do%2C+I+do+it+in+production+%F0%9F%98%82;My+code+doesn%27t+have+bugs%2C+it+just+develops+random+features+%F0%9F%90%9B;There+are+10+types+of+people%3A+those+who+get+binary+%26+those+who+don%27t+%F0%9F%A4%93;God+is+real%2C+unless+declared+Integer+%F0%9F%99%8F;sudo+make+me+a+sandwich+%F0%9F%A5%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2500&color=00D4FF&center=true&vCenter=true&width=900&lines=I+don%27t+always+test+my+code...+but+when+I+do%2C+I+do+it+in+production+%F0%9F%98%82;My+code+doesn%27t+have+bugs%2C+it+just+develops+random+features+%F0%9F%90%9B;There+are+10+types+of+people%3A+those+who+get+binary+%26+those+who+don%27t+%F0%9F%A4%93;God+is+real%2C+unless+declared+Integer+%F0%9F%99%8F;sudo+make+me+a+sandwich+%F0%9F%A5%AA" />
 </div>
 
 <br/>
